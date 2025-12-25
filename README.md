@@ -144,3 +144,14 @@ The primary deliverable of this project is an **interactive R Shiny dashboard** 
      "dplyr", "tidyr", "forcats",
      "scales", "DT"
    ))
+👥 Contributors
+
+Yatin Preetam Bhojwani
+
+Vaibhav Kalyan
+
+Vaibhav Khare
+
+Kaustabh Roy
+
+Instructor: Dr. Akash Anand
